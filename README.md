@@ -1,1 +1,1 @@
-# Simple-Responsive-Login-Page-HTML-CSS-Only-
+A responsive login page, front-end only. Background from web.
